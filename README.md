@@ -12,5 +12,4 @@
 
 
 ## Reference Screenshot
-
-(https://raw.githubusercontent.com/danialdrin/Recipes-Book/blob/main/reference-image/ref.png)
+![Reference Image](https://raw.githubusercontent.com/danialdrin/Recipes-Book/main/reference-image/ref.png)
