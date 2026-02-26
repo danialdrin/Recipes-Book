@@ -206,7 +206,7 @@ function App() {
                 <div className="container">
                     <div className="stats">
                         <span className={`stat-item clickable ${view === 'recipes' ? 'active' : ''}`} onClick={() => toggleView('recipes')}>
-                            <span id="recipeCount">{recipes.length}</span> Recipes
+                            <span id="recipeCount">{totalPages}</span> Recipes
                         </span>
                         <span className={`stat-item clickable ${view === 'quickview' ? 'active' : ''}`} onClick={() => toggleView('quickview')}>
                             Quick View
@@ -437,5 +437,6 @@ function Pagination({ page, total, setPage }) {
         </div>
     );
 }
+
 
 export default App;
