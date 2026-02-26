@@ -12,8 +12,8 @@
 
 
 ## Reference Screenshot - Recipes section
-![Reference Image](https://raw.githubusercontent.com/danialdrin/Recipes-Book/main/reference-image/image1.jpeg)
+![Reference Image](https://raw.githubusercontent.com/danialdrin/Recipes-Book/main/reference-image/image2.jpeg)
 
 
 ## Reference Screenshot - Quick View section
-![Reference Image](https://raw.githubusercontent.com/danialdrin/Recipes-Book/main/reference-image/image2.jpeg)
+![Reference Image](https://raw.githubusercontent.com/danialdrin/Recipes-Book/main/reference-image/image1.jpeg)
